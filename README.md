@@ -1,4 +1,4 @@
-# Trabalho de Conclusão de Curso de Engenharia Mecatrônica — Coleta e Visualização de Dados
+# Trabalho de Conclusão de Curso de Engenharia Mecatrônica - Coleta e Visualização de Dados
 
 Este projeto é dividido em duas partes principais:
 1. **Coleta de dados com Arduino via porta serial**.
